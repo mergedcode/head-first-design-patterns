@@ -1,8 +1,8 @@
 # Head First Design Patterns Solutions & Implementations
 
-Personal practice repository containing implementations and solutions for patterns and exercises from **_Head First Design Patterns (2nd Edition)_** by Eric Freeman and Elisabeth Robson.
+Repository containing implementations and solutions for patterns and exercises from **_Head First Design Patterns (2nd Edition)_** by Eric Freeman and Elisabeth Robson.
 
-All implementations and solutions are written and maintained by **Sudarshan Dhage**.
+Solutions written and maintained by **Sudarshan Dhage**.
 
 ---
 
@@ -13,6 +13,6 @@ All implementations and solutions are written and maintained by **Sudarshan Dhag
 
 ---
 
-## 👤 Author
+## 👤 Maintainer
 **Sudarshan Dhage**  
 GitHub: [@SudarshanDhage](https://github.com/SudarshanDhage)
